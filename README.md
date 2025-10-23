@@ -25,7 +25,7 @@
 <p align="center">
   <em>
     Hello, I am Ariel Norambuena, a former Anthropology student from <a href="https://www.uc.cl/"> <b>Pontifical University Of Chile</b></a>. <br>
-    Currently learning <b>Java full-stack web development</b> in <a href="https://chile.generation.org/"> Generation, Chile</a>. <br>
+    Currently learning <b>Java full-stack development</b> in <a href="https://chile.generation.org/"> Generation, Chile</a>. <br>
  <b>Passionate learner</b> looking for ways to reinvent and improve myself.</p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
