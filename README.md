@@ -28,7 +28,7 @@
     Currently learning <b>Java full-stack development</b> in <a href="https://chile.generation.org/"> Generation, Chile</a>. <br>
  <b>Passionate learner</b> looking for ways to reinvent and improve myself.</p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="[https://i.ibb.co/D0k62bF/83226b9a-4bdc-4847-9bf8-061fe13d1641-transflag.gif]" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://i.ibb.co/D0k62bF/83226b9a-4bdc-4847-9bf8-061fe13d1641-transflag.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
