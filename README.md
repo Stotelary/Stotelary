@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" height="200"/>
+  <img src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" height="200"/>
 </p>
 <br>
 
@@ -28,7 +28,7 @@
     Currently learning <b>Java full-stack development</b> in <a href="https://chile.generation.org/"> Generation, Chile</a>. <br>
  <b>Passionate learner</b> looking for ways to reinvent and improve myself.</p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://i.ibb.co/D0k62bF/83226b9a-4bdc-4847-9bf8-061fe13d1641-transflag.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://cdn.mos.cms.futurecdn.net/5xZAeKbC3ohgiRkhh3oVs3.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
