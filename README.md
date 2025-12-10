@@ -34,6 +34,6 @@
 
 ✔ Call me: ***He/Him*** <br>
 ✔ I´m fluent in English and Spanish<br>
-✔ Proudly neurodivergent<br><br><br><br>
+✔ I have basic knowledge in Python, Java, JavaScript, C#, HTML5, and CSS3<br><br><br><br>
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
