@@ -28,12 +28,12 @@
     Currently learning <b>Java full-stack development</b> in <a href="https://chile.generation.org/"> Generation, Chile</a>. <br>
  <b>Passionate learner</b> looking for ways to reinvent and improve myself.</p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://cdn.mos.cms.futurecdn.net/5xZAeKbC3ohgiRkhh3oVs3.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://i.ibb.co/TDKBShkx/gamervhate-1.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Call me: ***He/Him*** <br>
 ✔ I´m fluent in English and Spanish<br>
-✔ I have basic knowledge in Python, Java, JavaScript, C#, HTML5, and CSS3<br><br><br><br>
+✔ Basic knowledge in Python, Java, JavaScript, C#, HTML5, and CSS3<br><br><br><br>
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
